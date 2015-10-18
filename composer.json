@@ -1,11 +1,11 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
-	"keywords": ["framework", "laravel"],
+	"name": "SG/pat",
+	"description": "Plataforma de asesorías y tutorías, la educacion es hoy",
 	"license": "MIT",
 	"type": "project",
 	"require": {
-		"laravel/framework": "5.0.*"
+		"laravel/framework": "5.0.*",
+		"codeception/codeception" : "*"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "~4.0",
